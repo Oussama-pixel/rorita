@@ -1,5 +1,5 @@
 import './App.scss';
-import React, { Suspense, useEffect, useState } from "react";
+import React, { Suspense } from "react";
 import {BrowserRouter as Router , Routes ,Route } from "react-router-dom";
 import Home from './Pages/Home/Home';
 import {Provider} from 'react-redux'
